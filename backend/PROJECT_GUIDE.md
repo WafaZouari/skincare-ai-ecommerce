@@ -1,3 +1,4 @@
+#backend architecture overview
 backend/
 ├── app/
 │   ├── main.py          ✅ App entry point, CORS, router wiring
